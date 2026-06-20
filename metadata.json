@@ -1,0 +1,6 @@
+{
+  "name": "Orin Signal Analyzer",
+  "description": "A web-based backtesting and analysis utility for trading signals (Quotex/Binary Options) with Martingale logic and interactive candle charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
